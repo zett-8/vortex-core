@@ -6,10 +6,16 @@
 ## Customize key map
 [https://tsdo.in/much-programming-core/](https://tsdo.in/much-programming-core/)
 
-## Key cap
+## Key
+
+### Switch type
+- Cherry mx
 
 ### Profile
 - DSA profile
+
+### Material
+- PBT
 
 ### Size list
 - 1u x40
