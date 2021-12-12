@@ -4,7 +4,14 @@
 
 
 ## Customize key map
-[https://tsdo.in/much-programming-core/](https://tsdo.in/much-programming-core/)
+1. Create custom keymap on [https://tsdo.in/much-programming-core/](https://tsdo.in/much-programming-core/) then download layout.cys file clicking \[Generate Binary (Vortex)\]
+2. Download \[core MPC firmware\] directly from this repo or from official page [http://www.vortexgear.tw/vortex3.asp](http://www.vortexgear.tw/vortex3.asp)
+3. Connect Vortex core to your PC and run \[core MPC firmware\]
+4. Select \[CORE by MPC] then upgrade firmware
+5. Unplag your Vortex core 
+6. Connect your Vortex core pushing ALT(forth button from left bottom) + D then PC recognises Vortex core as external DISK
+7. Paste your layout.cys file which you createt on step 1
+8. Unplag Vortex core and connect again
 
 ## Key
 
